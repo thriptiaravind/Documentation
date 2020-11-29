@@ -58,3 +58,49 @@ The navigation pane is on the left side of the Amazon EC2 console. If you do not
 5. The private key file is automatically downloaded by your browser. The base file name is the name you specified as the name of your key pair, and the file name extension is `.pem`. Save the private key file in a safe place.
 > Important
 This is the only chance for you to save the private key file.
+
+## Testing Guthub Flavor
+
+Your computer crashed? Try sending a 
+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>.
+~~It was created by John Gruber in 2004.~~
+
+
+<table class="table table-striped">
+
+<caption>Caption for this Table</caption>
+
+<thead class="thead-dark">
+
+<tr>
+    <th width="30%">Property</th>
+    <th width="70%">Description</th>
+    </tr>
+</thead>
+
+<tbody>
+
+<tr>
+    <td>Topic1</td>
+    <td>Topic2
+        <ul>
+        <li>Bullet item</li>
+        <li>Bullet item</li>
+        </ul>
+        </td>
+    </tr>
+
+<tr>
+
+   <td>TopicA</td>
+
+<td>TopicB</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+
+![Image](/IMG_20200710_143116.jpg)
