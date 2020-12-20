@@ -1,73 +1,55 @@
 body {
-	font-size: 10pt;
-  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background-color: coral;
-  color: dark blue;
-  line-height: 14pt;
-  padding-left: 5pt;
-  padding-right: 5pt;
-  padding-top: 5pt;
-}
-h1 {
-
-  font: 14pt Verdana, Geneva, Arial, Helvetica, sans-serif;
-
-  font-weight: bold;
-
-  line-height: 20pt;
-
+    font-family: 'Montserrat', sans-serif;
 }
 
-
-p.subheader {
-
-  font-weight: bold;
-
-  color: #593d87;
-
-}
-
-
-img {
-
-  padding: 3pt;
-
-  float: right;
-
-}
-
+/* Basic */
 
 a {
+	color: #3CF;
+    text-decoration: none;
+}
 
-  text-decoration: none;
+a:hover {
+	color: #FC3;
+    text-decoration: none;
+}
 
+ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+p {
+    font-size: 13px;
+    line-height: 22px;
 }
 
 
-a:link, a:visited {
-
-  color: #8094d6;
-
+.section-heading {
+    text-align: center;
+    margin-bottom: 70px;
 }
 
-
-a:hover, a:active {
-
-  color: #FF9933;
-
+.section-heading h2:before {
+    width: 1px;
+    height: 100px;
+    background-color: rgba(250,250,250,0.1);
+    position: absolute;
+    top: -102px;
+    content: '';
+    left: 50%;
+    transform: translate(-50%);
 }
 
-
-div.footer {
-
-  font-size: 9pt;
-
-  font-style: italic;
-
-  line-height: 12pt;
-
-  text-align: center;
-
-  padding-top: 30pt;
-
+.section-heading h2 {
+    margin-top: 100px;
+    position: relative;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+    letter-spacing: 0.5px;
+    display: inline-block;
+    padding: 15px 20px;
+    border: 2px solid rgba(250,250,250,0.1);
 }
