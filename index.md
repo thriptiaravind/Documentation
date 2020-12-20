@@ -15,4 +15,5 @@ She has experience in authoring tools such as Microsoft Office Suite, Adobe Drea
 * **Blog**: [Tired Superheroine](http://www.thriptiaravind.com/)
 
 ## Sample
+<a href="./Assets/UPI.pdf">User Guide</a>
 [User Guide](./Assets/UPI.pdf)
